@@ -1,0 +1,3 @@
+This project aims to compare multiclass classification for datasets with dimensions greater than one. In two-dimensional space, three simulated datasets were analyzed, comparing the results of K-Means and GMM from scikit-learn against the proposed implementation of EM in GMM. For higher-dimensional datasets, the objective was to analyze the sensitivity of the proposed implementation by increasing the number of classes and the dimensionality of the simulated datasets, which follow a Mixture of Gaussian distributions.
+
+This project is part of the Numerical Probabilities and Computational Statistics course at Sorbonne University and was carried out in collaboration with my colleague Yuling HUANG.
